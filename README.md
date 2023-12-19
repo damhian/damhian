@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **david.mayshiogie@protonmail.com**
 
-- ⚡ If I have time **I love play some football or futsal and also badminton**
+- ⚡ If I have time, **I love play some football or futsal and also badminton**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

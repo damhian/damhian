@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm David Mayshiogie</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Damhian</h1>
+<h3 align="center">A passionate developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damhian&label=Profile%20views&color=0e75b6&style=flat" alt="damhian" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Internal Government Apps**
 
-- 🌱 I’m currently learning **Laravel 10, Django**
+- 🌱 I’m currently learning **Laravel 10, Django, Web3 AKA Blockchain**
 
 - 👯 I’m looking to collaborate on **React Project**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **david.mayshiogie@protonmail.com**
 
-- ⚡ If I have time, **I love play some football or futsal and also badminton**
+- ⚡ If I have time, **I love to play some football or futsal and also badminton**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

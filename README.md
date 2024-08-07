@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David M</h1>
-<h3 align="center">A passionate developer from Indonesia</h3>
+<h3 align="center">A software developer Based on Indonesia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damhian&label=Profile%20views&color=0e75b6&style=flat" alt="damhian" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Laravel 10, Django, Web3 AKA Blockchain**
 
-- 👯 I’m looking to collaborate on **Laravel, React, Python and Web3 Project**
+- 👯 I’m looking to collaborate on **Laravel, React, NextJS, Python and Web3 Project**
 
-- 💬 Ask me about **React, Laravel, Python**
+- 💬 Ask me about **React, Laravel, PHP, Python**
 
 - 📫 How to reach me **david.mayshiogie@protonmail.com**
 
-- ⚡ If I have time, **I love to play some football or futsal and also badminton**
+- ⚡ If I have time, **I'd like to play some football or futsal, and also badminton.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

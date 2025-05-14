@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Internal Government Apps**
 
-- 🌱 I’m currently learning **Laravel 10, Django, Web3 AKA Blockchain**
+- 🌱 I’m currently learning **Web3, Flask, Computer Vision, YOLO, Supervision, LLM**
 
-- 👯 I’m looking to collaborate on **Laravel, React, NextJS, Python and Web3 Project**
+- 👯 I’m looking to collaborate on **Laravel, React, NextJS, Svelte, Python and Web3 Project**
 
 - 💬 Ask me about **React, Laravel, PHP, Python**
 
